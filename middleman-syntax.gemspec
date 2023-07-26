@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency("aruba", "~> 0.5.1")
   s.add_development_dependency("cucumber", "~> 1.3.1")
   s.add_development_dependency("fivemat")
-  s.add_development_dependency("haml")
+  s.add_development_dependency("haml", "6.0.0")
   s.add_development_dependency("kramdown")
   s.add_development_dependency("slim")
 end
